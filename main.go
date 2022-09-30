@@ -3,5 +3,5 @@ package test
 import "fmt"
 
 func GetInfo()  {
-	fmt.Println("111")
+	fmt.Println("2222")
 }
